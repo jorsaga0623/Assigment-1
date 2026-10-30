@@ -126,6 +126,20 @@ body {
     text-align: center;
 }
 
+.image-section {
+    width: 100%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.image-section img {
+    width: 80%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 /* Page footer */
 
 .page-footer {
